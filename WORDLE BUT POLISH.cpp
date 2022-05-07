@@ -7,8 +7,6 @@ using namespace std;
 HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 int text_color = 7;
 
-
-
 string randomize()
 {
     const string words[] = {
